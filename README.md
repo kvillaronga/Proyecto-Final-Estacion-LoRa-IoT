@@ -1,4 +1,4 @@
-Proyecto LoRa – Transmisión de Temperatura y Humedad con ESP32 + DHT11 + ThingSpeak
+***Proyecto LoRa – Transmisión de Temperatura y Humedad con ESP32 + DHT11 + ThingSpeak***
 
 
 Este proyecto implementa un sistema inalámbrico basado en LoRa para la transmisión de datos ambientales (temperatura y humedad) utilizando dos ESP32: un emisor equipado con un sensor DHT11 y un receptor encargado de procesar la información y enviarla a ThingSpeak para su visualización en tiempo real.
